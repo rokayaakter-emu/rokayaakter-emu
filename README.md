@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on **AI-based projects and exploring new ML techniques**
 - 🌱 I’m currently learning **Data Science & Analytics techniques**, focusing on **data preprocessing, feature engineering, model evaluation**, and **advanced machine learning algorithms**
 - 💬 Ask me about **Data Science, Machine Learning, Federated Learning, IoT, Java, React Native**
-- 📫 How to reach me: **rokayaakteremu@icloud.com**
+- 📫 How to reach me: **rokayaakteremu@gmail.com**
 - 📄 Check out my work: [LinkedIn](https://www.linkedin.com/in/rokayaakter)
 
 <h3 align="left">Research Interests:</h3>
